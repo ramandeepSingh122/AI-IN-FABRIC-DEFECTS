@@ -96,18 +96,6 @@ Sample outputs include:
 * Real-time prediction screenshots
 
 
-## Project Workflow
-The complete training and evaluation workflow is available in:
-**training.ipynb**
-It includes:
-* Dataset preprocessing
-* Hybrid dataset generation
-* Model construction
-* Training and validation
-* Performance evaluation
-* Metrics visualization
-
-
 ## Backend / API
 The trained model was deployed using **FastAPI**.
 API capabilities:
@@ -148,3 +136,14 @@ The frontend allows real-time testing of the AI model for production environment
 ## Research Publication
 This research work is currently **under review in the Journal of Textile Association**.
 
+
+## Project Note
+The complete source code for the training pipeline, FastAPI backend, and frontend application is currently not included in this repository because the research paper associated with this project is under peer review for publication in the **Journal of Textile Association**.
+To avoid issues related to unpublished research, intellectual property, and duplicate public disclosure during the review process, only the project documentation, model architecture details, evaluation metrics, and result visualizations are shared at this stage.
+This repository currently includes:
+* Project overview and methodology
+* Model architecture description
+* Experimental results and evaluation metrics
+* Confusion matrix, ROC curve, classification report
+* Sample real-world predictions
+The complete implementation (training scripts, backend APIs, and frontend source code) may be made publicly available after the review and publication process is completed.
