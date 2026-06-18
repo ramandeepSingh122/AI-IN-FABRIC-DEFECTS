@@ -75,7 +75,7 @@ Captures lightweight and fine-grained texture patterns efficiently.
 
 
 ## Results
-The model achieved strong classification performance across all defect classes.Please refer to the `results` directory to view all performance visualizations and prediction outputs.
+The model achieved strong classification performance across all defect classes. Please refer to the [results folder](./results) to view all performance visualizations and prediction outputs.
 ### Performance Metrics
 * Accuracy: **98.83%**
 * Macro F1 Score: **0.97**
