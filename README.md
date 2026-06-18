@@ -9,7 +9,6 @@ The final model achieved **98.83% test accuracy**, demonstrating strong performa
 This project uses a hybrid dataset built from:
 * Kaggle Fabric Defect Dataset(Available: https://www.kaggle.com/datasets
 * TILDA Fabric v2 Dataset (COCO format) (Available: https://tilda-dataset.org/fabric-v2)
-The dataset contains 12 classes:
 ### Dataset Classes
 * Broken Stitch
 * Needle Mark
